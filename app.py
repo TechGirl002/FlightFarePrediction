@@ -1,5 +1,5 @@
-from flask import Flask, request, render_template
-from flask_cors import cross_origin
+from Flask import Flask, request, render_template
+from Flask_Cors import cross_origin
 import sklearn
 import pickle
 import pandas as pd
